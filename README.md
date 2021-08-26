@@ -1,2 +1,0 @@
-# Wheather-App
-javascript
